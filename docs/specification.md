@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Fourward** is a simple, beginner-friendly programming language made for learning programming concepts while keeping things intuitive. It emphasizes readability and straightforward syntax, making it ideal for first-time programmers.
+**Fourward** is a simple, beginner friendly programming language made for learning programming concepts while keeping things intuitive. It emphasizes readability and straightforward syntax, making it ideal for first-time programmers.
 
 ---
 

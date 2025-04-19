@@ -2,68 +2,64 @@
 
 ## 1. Project Overview
 - Project Name: Fourward Programming Language
-- Team Members: [List team members]
-- Project Duration: [Start Date] to [End Date]
+- Team Members: Om Patel, Vasu Patel, Nirmal Nelson, Abel Prasad
+- Project Duration: Jan 2025 - Apr 2025
 
 ## 2. Development Methodology
 - Agile development approach
-- Weekly sprints with regular team meetings
-- Continuous integration and testing
-- Regular documentation updates
+- Weekly sprints with team meetings
 
 ## 3. Timeline and Milestones
 
-### Week 1-2: Language Design and Specification
+### Week 1-4: Language Design and Specification
 - Define language syntax and semantics
 - Create initial language whitepaper
 - Design core language features
 
-### Week 3-4: Interpreter Development
+### Week 5-8: Interpreter Development
 - Implement basic interpreter structure
 - Develop core language features
 - Create initial test suite
 
-### Week 5-6: Advanced Features
+### Week 9-12: Advanced Features
 - Implement advanced language features
 - Develop standard library
 - Create example programs
 
-### Week 7-8: Testing and Documentation
-- Comprehensive testing
+### Week 12-16: Testing and Documentation
+- Testing
 - Documentation completion
 - Final refinements
 
 ## 4. Team Roles and Responsibilities
 
-### Project Manager: [Name]
+### Project Manager: Om Patel
 - Coordinate team efforts
 - Track project progress
 - Manage deadlines
 
-### Language Designer: [Name]
+### Language Designer: Nirmal Nelson
 - Define language syntax
 - Create language specification
 - Design language features
 
-### Interpreter Developer: [Name]
+### Interpreter Developer: Om Patel
 - Implement language interpreter
 - Develop runtime environment
 - Optimize performance
 
-### Documentation Specialist: [Name]
+### Documentation Specialist: Vasu Patel
 - Create tutorials
 - Write reference manual
 - Maintain documentation
 
-### Testing Engineer: [Name]
-- Develop test suite
+### Testing Engineer: Abel Prasad
 - Perform system testing
 - Ensure quality
 
 ## 5. Risk Management
 
 ### Potential Risks:
-- Feature creep
 - Technical challenges
 - Time constraints
 
@@ -84,4 +80,4 @@
 - Complete documentation
 - Passing test suite
 - Clear examples
-- Positive user feedback 
+- Positive feedback 

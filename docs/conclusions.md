@@ -35,16 +35,16 @@
 ## 3. Lessons Learned
 
 ### 3.1 Development Process
-- Planning and modular design are crucial for interpreter projects
+- Planning and modular design are important for interpreter projects
 - Documentation is key to user adoption and team alignment
 - Manual testing is essential in early language stages
-- Clear communication accelerates collaboration
+- Clear communication helps with collaboration
 
 ### 3.2 Technical Insights
 - Even minimal language design requires complex parsing logic
 - Small syntax changes can affect entire AST design
 - Runtime environments require careful state handling
-- Manual error handling must be both helpful and non-intrusive
+- Manual error handling must be both helpful and not intrusive
 
 ---
 
@@ -54,7 +54,6 @@
 - Successfully parsed and executed a variety of Fourward programs
 - Met intended goals for syntax and beginner accessibility
 - Delivered readable documentation
-- Received constructive feedback for future improvements
 
 ### 4.2 Areas for Improvement
 - Add support for user-defined functions
@@ -83,17 +82,16 @@
 ## 6. Team Reflection
 
 ### 6.1 Individual Contributions
-- Project planning and architecture
-- Syntax and grammar design
-- Interpreter development
-- Example programs and testing
-- Writing and organizing documentation
+- Project planning and architecture - Om Patel & Nirmal Nelson
+- Syntax and grammar design - Nirmal Nelson
+- Interpreter development - Om Patel
+- Example programs and testing - Abel Prasad
+- Writing and organizing documentation - Vasu Patel
 
 ### 6.2 Team Dynamics
 - Effective communication throughout development
-- Open collaboration and code reviews
-- Shared problem-solving and debugging
-- Supportive learning environment
+- Open collaboration
+- Shared problem solving
 
 ---
 
@@ -101,7 +99,7 @@
 
 ### 7.1 For Future Projects
 - Start with simple milestones and build up
-- Write flexible parser code to allow extensibility
+- Write flexible parser code
 - Integrate testing early
 - Use Git/GitHub for issue tracking and collaboration
 
