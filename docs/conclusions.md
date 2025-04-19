@@ -3,104 +3,116 @@
 ## 1. Project Summary
 
 ### 1.1 Goals Achieved
-- Successful language implementation
-- Complete documentation
-- Working interpreter
-- Test coverage
+- Successfully implemented a functional interpreter
+- Developed clear and user-friendly documentation
+- Designed a beginner-focused language syntax
+- Tested key language features using example programs
 
 ### 1.2 Key Features
 - Simple and expressive syntax
-- Advanced control structures
-- Error handling
-- Function support
+- Control structures (if, else, while)
+- Basic error and exception handling
+- Built-in function support (e.g., print, input)
+
+---
 
 ## 2. Technical Achievements
 
 ### 2.1 Implementation Successes
-- Efficient interpreter
-- Robust error handling
-- Clear documentation
-- Comprehensive testing
+- Developed a modular lexer, parser, and interpreter
+- Created a working runtime environment with variable scope
+- Included built-in utilities for user interaction
+- Maintained clean and understandable source code
 
 ### 2.2 Technical Challenges
-- Performance optimization
-- Memory management
-- Error recovery
-- Feature implementation
+- Handling parser edge cases
+- Managing scope and nested blocks
+- Designing syntax that balances simplicity and power
+- Testing across a variety of user inputs
+
+---
 
 ## 3. Lessons Learned
 
 ### 3.1 Development Process
-- Importance of planning
-- Value of documentation
-- Need for testing
-- Team collaboration
+- Planning and modular design are crucial for interpreter projects
+- Documentation is key to user adoption and team alignment
+- Manual testing is essential in early language stages
+- Clear communication accelerates collaboration
 
 ### 3.2 Technical Insights
-- Language design complexity
-- Implementation challenges
-- Performance considerations
-- Maintenance requirements
+- Even minimal language design requires complex parsing logic
+- Small syntax changes can affect entire AST design
+- Runtime environments require careful state handling
+- Manual error handling must be both helpful and non-intrusive
+
+---
 
 ## 4. Project Outcomes
 
 ### 4.1 Success Metrics
-- Functionality achieved
-- Documentation completeness
-- Test coverage
-- User feedback
+- Successfully parsed and executed a variety of Fourward programs
+- Met intended goals for syntax and beginner accessibility
+- Delivered readable documentation
+- Received constructive feedback for future improvements
 
 ### 4.2 Areas for Improvement
-- Performance optimization
-- Feature expansion
-- Documentation updates
-- Testing enhancement
+- Add support for user-defined functions
+- Expand test coverage and automation
+- Enhance runtime error messages
+- Optimize execution performance
+
+---
 
 ## 5. Future Directions
 
 ### 5.1 Potential Enhancements
-- Additional features
-- Performance improvements
-- Tooling development
-- Documentation expansion
+- Implement full function declaration and calling
+- Add lists, dictionaries, or arrays
+- Develop tooling (e.g., syntax highlighter, debugger)
+- Extend standard library or add native modules
 
 ### 5.2 Maintenance Plan
-- Regular updates
-- Bug fixes
-- Feature additions
-- Documentation maintenance
+- Periodic refactoring and cleanup
+- Track issues and bugs in a public repo
+- Implement version control for language features
+- Continue improving the docs and tutorials
+
+---
 
 ## 6. Team Reflection
 
 ### 6.1 Individual Contributions
-- Project management
-- Language design
-- Implementation
-- Documentation
-- Testing
+- Project planning and architecture
+- Syntax and grammar design
+- Interpreter development
+- Example programs and testing
+- Writing and organizing documentation
 
 ### 6.2 Team Dynamics
-- Communication
-- Collaboration
-- Problem solving
-- Knowledge sharing
+- Effective communication throughout development
+- Open collaboration and code reviews
+- Shared problem-solving and debugging
+- Supportive learning environment
+
+---
 
 ## 7. Recommendations
 
 ### 7.1 For Future Projects
-- Better planning
-- Enhanced documentation
-- Improved testing
-- Regular reviews
+- Start with simple milestones and build up
+- Write flexible parser code to allow extensibility
+- Integrate testing early
+- Use Git/GitHub for issue tracking and collaboration
 
 ### 7.2 For Language Development
-- Feature prioritization
-- Performance focus
-- User feedback
-- Documentation quality
+- Prioritize must-have features first
+- Always write from the user's perspective
+- Plan for extensibility from the start
+- Keep documentation synced with features
+
+---
 
 ## 8. Final Thoughts
-- Project success factors
-- Key learnings
-- Future potential
-- Team achievements 
+Fourward proved that even a small language can teach a lot. From designing grammar rules to building an interpreter from scratch, the project was a complete learning journey. Though there's room to grow, this first version laid a strong foundation for future enhancements.
+
