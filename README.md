@@ -50,7 +50,7 @@ Fourward is a modern programming language designed for simplicity and expressive
 
 2. Execute a File:
    ```bash
-   python fourward_interpreter.py path/to/your/file.fwd
+   python3 fourward_interpreter.py path/to/your/file.fwd
    ```
 
 ### Basic Syntax Example
