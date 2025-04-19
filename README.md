@@ -103,4 +103,4 @@ Check out the `examples.fwd` file for more comprehensive examples of the languag
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or support, please contact [your-email@example.com]
+For questions or support, please contact [orp5068@psu.edu]
