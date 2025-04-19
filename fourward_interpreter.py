@@ -27,7 +27,7 @@ TOKEN_SPECIFICATION = [
 token_regex = '|'.join(f'(?P<{name}>{pattern})' for name, pattern in TOKEN_SPECIFICATION)
 get_token = re.compile(token_regex).match
 
-# Reserved keywords for OmLang.
+# Reserved keywords for Fourward.
 KEYWORDS = {"let", "const", "if", "else", "while", "for", "function", "return", "print", "input", "true", "false", "null"}
 
 class Token:
@@ -446,7 +446,7 @@ def run(code):
 # --- Main Entry Point ---
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print("Usage: python omlang_interpreter.py <source_file>")
+        print("Usage: python fourward_interpreter.py <source_file>")
         sys.exit(1)
     with open(sys.argv[1], 'r') as f:
         code = f.read()

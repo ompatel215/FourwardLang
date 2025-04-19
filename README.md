@@ -39,7 +39,7 @@ Fourward is a modern, Python-inspired programming language designed for simplici
 
 3. Verify installation:
    ```bash
-   python omlang_interpreter.py --version
+   python fourward_interpreter.py --version
    ```
 
 ## Getting Started
@@ -47,12 +47,12 @@ Fourward is a modern, Python-inspired programming language designed for simplici
 ### Running the Interpreter
 1. Interactive Mode:
    ```bash
-   python omlang_interpreter.py
+   python fourward_interpreter.py
    ```
 
 2. Execute a File:
    ```bash
-   python omlang_interpreter.py path/to/your/file.oml
+   python fourward_interpreter.py path/to/your/file.fwd
    ```
 
 ### Basic Syntax Example
@@ -86,7 +86,7 @@ print(greet("Fourward"))
 - [Conclusions](conclusions.txt)
 
 ## Examples
-Check out the `examples.oml` file for more comprehensive examples of the language features.
+Check out the `examples.fwd` file for more comprehensive examples of the language features.
 
 ## Contributing
 1. Fork the repository
