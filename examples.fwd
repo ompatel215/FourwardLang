@@ -40,19 +40,39 @@ let sum = a + b;
 print("The sum is " + sum);
 
 ###############################
-# Example 6: Function Example (Planned Extension)
+# Example 6: Function Definition and Usage
 ###############################
-# The following is an example of a function definition for calculating factorial.
-# Note: Your current interpreter may not support functions yet.
-#
-# function factorial(n) {
-#     let result = 1;
-#     while (n > 0) {
-#         result = result * n;
-#         n = n - 1;
-#     }
-#     return result;
-# }
-#
-# let number = input("Enter a number: ");
-# print("Factorial is " + factorial(number));
+function factorial(n) {
+    let result = 1;
+    while (n > 0) {
+        result = result * n;
+        n = n - 1;
+    }
+    return result;
+}
+
+let number = input("Enter a number: ");
+print("Factorial is " + factorial(number));
+
+###############################
+# Example 7: String Manipulation
+###############################
+function greet(name) {
+    return "Hello, " + name + "!";
+}
+
+let name = input("What's your name? ");
+print(greet(name));
+
+###############################
+# Example 8: Nested Functions
+###############################
+function outer(x) {
+    function inner(y) {
+        return x + y;
+    }
+    return inner(5);
+}
+
+let result = outer(10);
+print("Result of nested function: " + result);

@@ -1,49 +1,49 @@
-Test Plan and Scripts - Fourward Programming Language
+# Test Plan and Scripts - Fourward Programming Language
 
-1. Testing Strategy
+## 1. Testing Strategy
 
-1.1 Testing Levels
+### 1.1 Testing Levels
 - Unit Testing
 - Integration Testing
 - System Testing
 - Acceptance Testing
 
-1.2 Testing Types
+### 1.2 Testing Types
 - Functional Testing
 - Performance Testing
 - Security Testing
 - Usability Testing
 
-2. Test Environment
+## 2. Test Environment
 
-2.1 Setup Requirements
+### 2.1 Setup Requirements
 - Python 3.8+
 - Testing frameworks
 - Test data
 - Test environment
 
-2.2 Configuration
+### 2.2 Configuration
 - Test parameters
 - Environment variables
 - Test data setup
 
-3. Test Cases
+## 3. Test Cases
 
-3.1 Language Features
+### 3.1 Language Features
 - Variable declaration
 - Control structures
 - Functions
 - Operators
 
-3.2 Error Handling
+### 3.2 Error Handling
 - Syntax errors
 - Runtime errors
 - Type errors
 - Memory errors
 
-4. Test Scripts
+## 4. Test Scripts
 
-4.1 Unit Tests
+### 4.1 Unit Tests
 ```python
 def test_variable_declaration():
     # Test variable declaration
@@ -58,7 +58,7 @@ def test_functions():
     pass
 ```
 
-4.2 Integration Tests
+### 4.2 Integration Tests
 ```python
 def test_program_execution():
     # Test complete program execution
@@ -69,50 +69,50 @@ def test_file_operations():
     pass
 ```
 
-5. Test Execution
+## 5. Test Execution
 
-5.1 Running Tests
+### 5.1 Running Tests
 - Command line execution
 - Automated testing
 - Manual testing
 
-5.2 Test Results
+### 5.2 Test Results
 - Result collection
 - Error reporting
 - Performance metrics
 
-6. Test Coverage
+## 6. Test Coverage
 
-6.1 Coverage Goals
+### 6.1 Coverage Goals
 - Code coverage
 - Branch coverage
 - Path coverage
 
-6.2 Coverage Tools
+### 6.2 Coverage Tools
 - Coverage.py
 - pytest-cov
 - Custom tools
 
-7. Bug Tracking
+## 7. Bug Tracking
 
-7.1 Issue Management
+### 7.1 Issue Management
 - Bug reporting
 - Issue tracking
 - Resolution process
 
-7.2 Regression Testing
+### 7.2 Regression Testing
 - Bug fixes
 - Feature changes
 - Performance improvements
 
-8. Test Documentation
+## 8. Test Documentation
 
-8.1 Test Reports
+### 8.1 Test Reports
 - Test results
 - Coverage reports
 - Performance metrics
 
-8.2 Maintenance
+### 8.2 Maintenance
 - Test updates
 - Documentation updates
 - Process improvements 
